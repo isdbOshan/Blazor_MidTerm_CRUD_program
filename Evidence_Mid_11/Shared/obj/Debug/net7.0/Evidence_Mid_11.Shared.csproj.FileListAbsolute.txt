@@ -1,0 +1,24 @@
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\bin\Debug\net7.0\Evidence_Mid_11.Shared.deps.json
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\bin\Debug\net7.0\Evidence_Mid_11.Shared.dll
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\bin\Debug\net7.0\Evidence_Mid_11.Shared.pdb
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.csproj.AssemblyReference.cache
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.AssemblyInfoInputs.cache
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.AssemblyInfo.cs
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.csproj.CoreCompileInputs.cache
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.dll
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\refint\Evidence_Mid_11.Shared.dll
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.pdb
+D:\R52\M15\Class 04\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\ref\Evidence_Mid_11.Shared.dll
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\bin\Debug\net7.0\Evidence_Mid_11.Shared.deps.json
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\bin\Debug\net7.0\Evidence_Mid_11.Shared.dll
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\bin\Debug\net7.0\Evidence_Mid_11.Shared.pdb
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.csproj.AssemblyReference.cache
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.AssemblyInfoInputs.cache
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.AssemblyInfo.cs
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.csproj.CoreCompileInputs.cache
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.dll
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\refint\Evidence_Mid_11.Shared.dll
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\Evidence_Mid_11.Shared.pdb
+D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Shared\obj\Debug\net7.0\ref\Evidence_Mid_11.Shared.dll

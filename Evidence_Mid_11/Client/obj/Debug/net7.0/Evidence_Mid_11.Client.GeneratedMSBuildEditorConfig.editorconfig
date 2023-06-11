@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Evidence_Mid_11.Client
+build_property.RootNamespace = Evidence_Mid_11.Client
+build_property.ProjectDir = D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Sohan\ESAD\Module_14\Evidence_11\Evidence_Mid_11_Solution\Evidence_Mid_11_Solution\Evidence_Mid_11\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Sohan/ESAD/Module_14/Evidence_11/Evidence_Mid_11_Solution/Evidence_Mid_11_Solution/Evidence_Mid_11/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sohan/ESAD/Module_14/Evidence_11/Evidence_Mid_11_Solution/Evidence_Mid_11_Solution/Evidence_Mid_11/Client/Pages/Devices/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlc1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sohan/ESAD/Module_14/Evidence_11/Evidence_Mid_11_Solution/Evidence_Mid_11_Solution/Evidence_Mid_11/Client/Pages/Devices/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlc1xFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sohan/ESAD/Module_14/Evidence_11/Evidence_Mid_11_Solution/Evidence_Mid_11_Solution/Evidence_Mid_11/Client/Pages/Devices/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlc1xMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sohan/ESAD/Module_14/Evidence_11/Evidence_Mid_11_Solution/Evidence_Mid_11_Solution/Evidence_Mid_11/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sohan/ESAD/Module_14/Evidence_11/Evidence_Mid_11_Solution/Evidence_Mid_11_Solution/Evidence_Mid_11/Client/Shared/MainNav.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5OYXYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sohan/ESAD/Module_14/Evidence_11/Evidence_Mid_11_Solution/Evidence_Mid_11_Solution/Evidence_Mid_11/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sohan/ESAD/Module_14/Evidence_11/Evidence_Mid_11_Solution/Evidence_Mid_11_Solution/Evidence_Mid_11/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bwk083f3wx
